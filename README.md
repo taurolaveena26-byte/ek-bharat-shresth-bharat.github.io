@@ -6,13 +6,13 @@
 <title>Avalakki Payasa</title>
 
 <style>
-*{
+.border{
     margin:0;
     padding:0;
     box-sizing:border-box;
 }
 
-body{
+.body{
     background:#f4f4f4;
     font-family:Georgia, serif;
     color:#333;
